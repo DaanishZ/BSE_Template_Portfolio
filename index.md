@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Phone Controlled Robot Arm
+My project will use an arduino and an android app to control a robot arm. This will be done using servo motors connected to the robot arm and arduino. The app must be able to establish a connection and control the robot arm. This robot arm will be able to do simple tasks such as holding onto items, picking up items, and pushing items away. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Daanish Zai | Canyon Crest Academy | Engineering | Incoming Sophomore
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
