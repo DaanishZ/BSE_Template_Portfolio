@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 My first milestone involved using an Arduino, HC-05 Bluetooth module, and Android application to move a servo motor. One of my challenges was uploading to code to the Arduino. I did not realize at first that I had to unplug my HC-05 in order to upload my code without error. After I figured this out, my code uploaded properly. Another challenge included connecting the Arduino to my phone. My phone kept connecting to other bluetooth devices. I fixed this error by unpairing any other bluetooth devices so that my bluetooth module was the only available connection.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657646065/video_to_markdown/images/youtube--OJJFwEuBUb8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OJJFwEuBUb8 "Milestone 1"){:target="_blank" rel="noopener"}
