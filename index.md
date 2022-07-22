@@ -10,7 +10,7 @@ My project will use an arduino and an android app to control a robot arm. This w
 # Final Milestone
 My final milestone allowed for control of the robotic arm through an application on my computer. I used the processing program in order to control all five servos of my arm.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone][![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1658507592/video_to_markdown/images/youtube--Gh1PW66VUKI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Gh1PW66VUKI "Milestone 3"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone involved assembling my robot arm. When fully completed, my arm have 5 servo motors. I enabled these servo motors to be controlled using either potentiometers or a GUI interface on my computer. Challenges included aligning the claw properly so that it would open and close properly. I fixed this by removing the claw, and repositioning it to that it could open and close at proper angles.
